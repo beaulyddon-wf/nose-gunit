@@ -2,7 +2,7 @@ import logging
 import os
 import sys
 
-from nose.plugin import Plugin
+from nose.plugins import Plugin
 
 log = logging.getLogger('nose.plugins.nosegunit')
 
